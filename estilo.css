@@ -1,0 +1,36 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+
+}
+.container {
+	background-color:;
+	width: 100%;
+	height: 50%;
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	align-items: stretch;
+}
+.buton{
+	width: 40%;
+	display: inline-block;
+	text-align: center;
+}
+.buton button{
+	width: 50%;
+	height: 100%;
+}
+.imagen{
+	height: 500px;
+	width: 500px;
+	display: inline-block;
+	text-align: center;
+	
+}
+.imagen img{
+	width: 100%;
+	height: 100%;
+}
